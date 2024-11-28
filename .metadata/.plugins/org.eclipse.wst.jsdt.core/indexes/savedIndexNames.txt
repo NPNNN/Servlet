@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\Spark2.0\Advance_Java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2004887014.index
+2200254442.index
+2871452958.index
+3397293651.index
+3588902470.index
+1284970364.index
+926071149.index
